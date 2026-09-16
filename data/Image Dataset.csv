@@ -1,0 +1,11 @@
+Organ,Organ_Condition,Image_URL
+Human Body,Healthy,lh3.googleusercontent.com/d/1hLITvQKFwd1CUhL_oK08dSTeCpa5Vy6_
+Human Body,Damaged,lh3.googleusercontent.com/d/1i27VxlufNauzLKy0ZXIfjMcydH5dJFqd
+Heart,Healthy,lh3.googleusercontent.com/d/1JhaKl4EPudWBjpx35H07EVAPQx7B0jUd
+Heart,Damaged,lh3.googleusercontent.com/d/1V-dyR4mW7tW9TiEA0u2VIbqom6HomFZV
+Lungs,Healthy,lh3.googleusercontent.com/d/14brvsppOGIMgV-0Ft1rrVG6WyP6ApCHo
+Lungs,Damaged,lh3.googleusercontent.com/d/1Rf9Kgux8vtyN2EKJhUWesPdJK9iwryQb
+Kidneys,Healthy,lh3.googleusercontent.com/d/1M5VXy0fdgDbMjwWzhfeir9y4nSREa4Nb
+Kidneys,Damaged,lh3.googleusercontent.com/d/1ZhR8QgW9NYXnyfxPTwhI2uryP6t8jIr2
+Liver,Healthy,lh3.googleusercontent.com/d/1bkyZqP2_UeR3aS-VRlPooXoEsJf1mzTt
+Liver,Damaged,lh3.googleusercontent.com/d/1Vyl-Me1JHLFD0lPxe2kIZA6lDES7YhHc
