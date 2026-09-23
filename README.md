@@ -1,8 +1,6 @@
 # Smoking Health Risk Analysis Dashboard (Indonesia)
 
-Dashboard interaktif Power BI yang menganalisis risiko kesehatan
-akibat merokok, dikaitkan dengan demografi dan kondisi organ,
-menggunakan data sintetik yang dimodelkan mengikuti pola statistik
+Dashboard interaktif Power BI yang menganalisis risiko kesehatan akibat merokok, dikaitkan dengan demografi dan kondisi organ, menggunakan data sintetik yang dimodelkan mengikuti pola statistik
 merokok di Indonesia.
 
 ## Fitur
@@ -14,15 +12,15 @@ merokok di Indonesia.
 ## Insight Utama
 1. Gap gender yang tajam (paling "menjual")
 
-Pria 65% pernah merokok (46.8% aktif + 18.1% mantan), wanita cuma 5.2% — ini insight paling kuat karena bukan cuma pola dari data kita, tapi memang mencerminkan kondisi riil Indonesia (data GATS/BPS). Bagus buat pembuka narasi dashboard.
+Pria 65% pernah merokok (46.8% aktif + 18.1% mantan), wanita cuma 5.2% ini insight paling kuat karena bukan cuma pola dari data kita, tapi memang mencerminkan kondisi riil Indonesia (data GATS/BPS). Bagus buat pembuka narasi dashboard.
 
 2. Korelasi jelas antara status merokok dan kerusakan organ
 
-Perokok aktif: 43% organ rusak, mantan perokok: 23%, tidak pernah merokok: 12%. Ini insight utama secara analitis — nunjukin gradien yang jelas (bukan cuma "ada" vs "nggak ada", tapi makin berkurang seiring berhenti merokok), yang secara medis masuk akal dan bisa jadi talking point kuat kalau ditanya soal validitas data.
+Perokok aktif: 43% organ rusak, mantan perokok: 23%, tidak pernah merokok: 12%. Ini insight utama secara analitis nunjukin gradien yang jelas (bukan cuma "ada" vs "nggak ada", tapi makin berkurang seiring berhenti merokok), yang secara medis masuk akal dan bisa jadi talking point kuat kalau ditanya soal validitas data.
 
 3. Paru-paru paling rentan
 
-Karena kita set multiplier kerentanan organ waktu generate data (Lungs = 1.5x lebih rentan dibanding baseline), organ Lungs kemungkinan besar bakal nunjukin persentase kerusakan tertinggi di antara 5 organ — cek chart "% Organ Rusak per Organ" yang kita buat di halaman Organ Health buat konfirmasi angka pastinya, terus highlight itu.
+Karena kita set multiplier kerentanan organ waktu generate data (Lungs = 1.5x lebih rentan dibanding baseline), organ Lungs kemungkinan besar bakal nunjukin persentase kerusakan tertinggi di antara 5 organ cek chart "% Organ Rusak per Organ" yang kita buat di halaman Organ Health buat konfirmasi angka pastinya, terus highlight itu.
 
 4. Kolesterol naik seiring status merokok
 
@@ -49,7 +47,7 @@ BPS dan survei GATS (Global Adult Tobacco Survey), dengan asumsi:
 
 Karena bersifat sintetik, dataset ini **tidak merepresentasikan
 data medis aktual** dan tidak boleh digunakan untuk kesimpulan
-klinis — tujuannya murni demonstrasi kemampuan analisis data dan
+klinis tujuannya murni demonstrasi kemampuan analisis data dan
 visualisasi.
 
 ## Tools
@@ -63,5 +61,6 @@ Power BI Desktop, DAX, Power Query, Data Modeling
 (image.png)
 
 ## Author
-Linkedin @zhafry dimas farhan
+Email: zhafryfarhan@gmail.com
+Linkedin: @Zhafry Dimas Farhan
 Instagram @zhafryfarhann
